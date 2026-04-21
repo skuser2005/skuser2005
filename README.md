@@ -1,4 +1,3 @@
-![WhatsApp Image 2026-04-14 at 8 08 45 PM](https://github.com/user-attachments/assets/7b149add-db4e-49de-bf5b-b3d9abb47ebe)
 
 # 💫 About Me:
 🔭 I’m currently working on improving my coding skills and building projects  <br>👯 I’m looking to collaborate on open source and beginner-friendly projects  <br>🤝 I’m looking for help with Data Structures & Algorithms  <br>🌱 I’m currently learning Web Development and DSA  <br>💬 Ask me about C++, Java, and basic programming  <br>⚡ Fun fact: I learn something new every day and love solving problems  
